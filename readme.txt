@@ -1,4 +1,4 @@
-CS5330 Project 3
+CS5330 Project 
 Xichen Liu
 
 
